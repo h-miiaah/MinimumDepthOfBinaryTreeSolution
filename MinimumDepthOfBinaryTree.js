@@ -20,6 +20,6 @@
 
 /*
 
-
+- If the root is null, return 0.
 
 */
