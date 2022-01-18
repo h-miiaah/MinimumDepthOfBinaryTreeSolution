@@ -12,4 +12,5 @@
  */
  var minDepth = function(root) {
     if (!root) return 0;
+    if (!root.left) return minDepth(root.right) + 1;
 };
