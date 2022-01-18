@@ -23,5 +23,6 @@
 - If the root is null, return 0.
 - If the left child is null, return the minDepth of the right child + 1.
 - If the right child is null, return the minDepth of the left child + 1.
+- Finally return the minimum of the minDepth of the left child and the minDepth of the right child + 1.
 
 */
