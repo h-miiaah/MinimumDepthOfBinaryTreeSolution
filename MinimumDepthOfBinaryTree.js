@@ -21,5 +21,6 @@
 /*
 
 - If the root is null, return 0.
+- If the left child is null, return the minDepth of the right child + 1.
 
 */
